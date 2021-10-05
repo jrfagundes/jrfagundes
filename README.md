@@ -1,4 +1,4 @@
-- 👋 Olá, meu nome é José Renato.
+- 👋 Olá, meu nome é José Renato Fagundes.
 - 👀 Tenho interesse em atuar na área de desenvolvimento back end.
 - 🌱 Estou me aprofundando em spring boot e rest APIs.
 - 💞️ Procuro por projetos em spring boot.
