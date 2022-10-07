@@ -1,7 +1,7 @@
 - 👋 Olá, meu nome é José Renato Fagundes.
 - 👀 Tenho interesse em atuar na área de desenvolvimento back end.
-- 🌱 Estou me aprofundando em spring boot e rest APIs.
-- 💞️ Procuro por projetos em spring boot.
+- 🌱 Estou me aprofundando em spring boot, rest APIs com foco em design patterns e arquitetura de software.
+- 💞️ Procuro por projetos em Java/Spring.
 - 📧 Email de contato - juniorfagundes@gmail.com
 - 🔗 Linkedin - www.linkedin.com/in/jose-renato-fagundes
 
